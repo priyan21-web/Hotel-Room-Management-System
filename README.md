@@ -204,3 +204,34 @@ Possible future enhancements include:
 * Additional hotel services
 * User authentication and role-based access
 * Advanced booking and revenue reports
+
+## 📸 Screenshots
+
+### 🏨 Main Dashboard
+
+![Main Dashboard](screenshots/dashboard.png)
+
+### 🛏️ Room Management
+
+![Room Management](screenshots/room-management.png)
+
+### 👨‍💼 Staff Management
+
+![Staff Management](screenshots/staff-management.png)
+
+### 👤 Customer Management
+
+![Customer Management](screenshots/customer-management.png)
+
+### 📅 Booking Management
+
+![Booking Management](screenshots/booking-management.png)
+
+### 💳 Billing
+
+![Billing](screenshots/billing.png)
+
+### 🍽️ Hotel Services
+
+![Hotel Services](screenshots/hotel-services.png)
+
