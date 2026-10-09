@@ -209,29 +209,30 @@ Possible future enhancements include:
 
 ### 🏨 Main Dashboard
 
-![Main Dashboard](screenshots/dashboard.png)
+![Main Dashboard](screenshots/Main%20Dashboard.png)
 
 ### 🛏️ Room Management
 
-![Room Management](screenshots/room-management.png)
+![Room Management](screenshots/Room%20Management.png)
 
 ### 👨‍💼 Staff Management
 
-![Staff Management](screenshots/staff-management.png)
+![Staff Management](screenshots/Staff%20Management.png)
 
 ### 👤 Customer Management
 
-![Customer Management](screenshots/customer-management.png)
+![Customer Management](screenshots/Customer%20Management.png)
 
 ### 📅 Booking Management
 
-![Booking Management](screenshots/booking-management.png)
+![Booking Management](screenshots/Booking%20Management.png)
 
 ### 💳 Billing
 
-![Billing](screenshots/billing.png)
+![Billing](screenshots/Billing.png)
 
 ### 🍽️ Hotel Services
 
-![Hotel Services](screenshots/hotel-services.png)
+![Hotel Services](screenshots/Hotel%20Services.png)
+
 
